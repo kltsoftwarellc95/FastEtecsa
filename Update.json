@@ -1,1 +1,7 @@
-
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "updateMessage": "Nuevas características y correcciones de errores",
+  "apkUrl": "https://github.com/tuusuario/Fast-Etecsa/releases/download/v1.1/FastEtecsa.apk",
+  "forceUpdate": false
+}
